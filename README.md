@@ -17,3 +17,4 @@ I built an interactive dashboard in order to explore the Belly Button Biodiversi
 #### Sources
 
 1. https://github.com/mychele-larson/Belly-Button-Challenge/blob/main/static/js/app2.js - I used this source to help me correctly pull the data and create the graphs. I then used this source when I could not figure something out as I wanted to figure it out on my own and I used it as a reference to ensure I was on the right track.
+2. https://github.com/GabbyOlivares/Plotly-Challenge/blob/main/app.js - I used this source to help me render the demographics information. 
