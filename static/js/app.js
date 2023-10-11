@@ -26,7 +26,7 @@ function optionChanged(value) {
     bubble(idName);
 }
 // Inserting deomographic data 
-// Source 1
+// Source 2
 function metaData(demographics) {
     let demoInfo = d3.select("#sample-metadata");
     demoInfo.html("");
