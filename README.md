@@ -4,9 +4,11 @@ Challenge 14 - belly_button_challenge
 ## Background
 
 I built an interactive dashboard in order to explore the Belly Button Biodiversity dataset which catalogs the microbes that colonize in human navels.  I began by preparing and pulling the dataset information from the D3 library provided.  I created a dropdown menu for each individual's information and then made a bar and bubble graph to show the top ten OTUs found within that individual.
-  <img w<img width="490" alt="Screenshot 2023-10-10 at 10 01 55 PM" src="https://github.com/arc71080/belly-button-challenge/assets/137009177/b75cd06f-8b16-43b4-8adc-32ae1d5ebaf6">
-idth="200" alt="Screenshot 2023-10-10 at 10 01 49 PM" src="https://github.com/arc71080/belly-button-challenge/assets/137009177/0a90a98b-54a4-4831-be1a-42b50f08b171">
-<img width="1086" alt="Screenshot 2023-10-10 at 10 02 02 PM" src="https://github.com/arc71080/belly-button-challenge/assets/137009177/2fd49cbc-42f9-487b-beaa-41b68ad675d7">
+<img width="200" alt="Screenshot 2023-10-10 at 10 01 49 PM" src="https://github.com/arc71080/belly-button-challenge/assets/137009177/69d40202-f<img width="490" alt="Screenshot 2023-10-10 at 10 01 55 PM" src="https://github.com/arc71080/belly-button-challenge/assets/137009177/e62cc1e9-b889-4250-8f9f-8a82cdca7097">
+8a7-4d3f-860c-943f09c33775">
+<img width="1086" alt="Screenshot 2023-10-10 at 10 02 02 PM" src="https://github.com/arc71080/belly-button-challenge/assets/137009177/02cf79fd-abb6-4dcf-a126-117599a89696">
+
+
 
 #### Sources
 
